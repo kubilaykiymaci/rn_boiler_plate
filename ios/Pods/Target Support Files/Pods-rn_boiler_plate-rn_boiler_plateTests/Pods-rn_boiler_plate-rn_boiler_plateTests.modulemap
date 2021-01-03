@@ -1,0 +1,6 @@
+module Pods_rn_boiler_plate_rn_boiler_plateTests {
+  umbrella header "Pods-rn_boiler_plate-rn_boiler_plateTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
