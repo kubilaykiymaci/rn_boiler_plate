@@ -1,0 +1,6 @@
+mocks/**
+npm
+.expo/**
+.sonarlint/**
+**/tests/**
+**/node_modules/**
